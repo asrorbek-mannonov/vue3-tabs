@@ -1,3 +1,7 @@
+# Vue3 Tabs example
+
+This example is a simple tabs component built with Vue3, UnoCSS and `provide` & `inject` API in Vue3.
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
